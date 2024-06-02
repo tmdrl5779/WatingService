@@ -22,3 +22,16 @@ Subject
 - ...
 
 ex) [Feat] : 추가 회원등록 API
+
+
+
+## Stacks 
+### Development
+- Frontend
+  - ...
+
+- Backend
+  - Kotlin
+  - Spring Cloud Gateway
+  - Kafka
+  - ...

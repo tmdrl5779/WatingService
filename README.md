@@ -31,7 +31,8 @@ ex) [Feat] : 추가 회원등록 API
   - ...
 
 - Backend
-  - Kotlin
+  - Kotlin, JAVA 17
+  - Eureka
   - Spring Cloud Gateway
   - Spring Boot
   - DB?
